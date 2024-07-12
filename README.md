@@ -1,6 +1,3 @@
-Claro! Aqui está o arquivo README.md atualizado:
-
-```markdown
 # Tamper Proof Data
 
 At Bequest, we require that important user data is tamper-proof. Otherwise, our system can incorrectly distribute assets if our internal server or database is breached.
@@ -212,6 +209,3 @@ app.listen(PORT, () => {
 ```
 
 ---
-
-Siga as instruções para rodar a aplicação e fazer a submissão conforme descrito acima.
-```
